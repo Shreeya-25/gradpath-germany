@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What is the application deadline for TUM Informatics for the winter semester?",
+    "expected_doc": "tum_msc_informatics",
+    "evidence": "31 may"
+  },
+  {
+    "question": "Minimum GRE quantitative score for TUM masters",
+    "expected_doc": "tum_msc_informatics",
+    "evidence": "164"
+  },
+  {
+    "question": "Do I need an APS certificate for TUM if I studied in India?",
+    "expected_doc": "tum_msc_informatics",
+    "evidence": "aps"
+  },
+  {
+    "question": "How long is the TUM Informatics written test?",
+    "expected_doc": "tum_msc_informatics",
+    "evidence": "90 minutes"
+  },
+  {
+    "question": "How many words should the TUM scientific essay be?",
+    "expected_doc": "tum_msc_informatics",
+    "evidence": "1,000 words"
+  },
+  {
+    "question": "What is the ETS institution code for TUM?",
+    "expected_doc": "tum_msc_informatics",
+    "evidence": "7806"
+  },
+  {
+    "question": "Is a uni-assist VPD alone enough to apply to TUM?",
+    "expected_doc": "tum_msc_informatics",
+    "evidence": "not an application"
+  },
+  {
+    "question": "When should visa applicants apply to TUM Informatics?",
+    "expected_doc": "tum_msc_informatics",
+    "evidence": "31 march"
+  },
+  {
+    "question": "Does TUM charge tuition fees for non-EU students?",
+    "expected_doc": "tum_msc_informatics",
+    "evidence": "tuition fees"
+  },
+  {
+    "question": "RWTH Software Systems Engineering application deadline",
+    "expected_doc": "rwth_msc_sse",
+    "evidence": "1 march"
+  },
+  {
+    "question": "What degree do I need for RWTH Software Systems Engineering?",
+    "expected_doc": "rwth_msc_sse",
+    "evidence": "closely related"
+  },
+  {
+    "question": "Is the GRE mandatory for RWTH Media Informatics?",
+    "expected_doc": "rwth_msc_media_informatics",
+    "evidence": "mandatory"
+  },
+  {
+    "question": "How many credit points of theoretical computer science does RWTH Media Informatics need?",
+    "expected_doc": "rwth_msc_media_informatics",
+    "evidence": "18 cp in theoretical"
+  },
+  {
+    "question": "Saarland Data Science and AI application deadline",
+    "expected_doc": "saarland_msc_dsai",
+    "evidence": "15 may"
+  },
+  {
+    "question": "Do students pay tuition at Saarland University?",
+    "expected_doc": "saarland_msc_dsai",
+    "evidence": "no tuition fees"
+  },
+  {
+    "question": "Is uni-assist needed for the Saarland data science master?",
+    "expected_doc": "saarland_msc_dsai",
+    "evidence": "uni-assist is not required"
+  },
+  {
+    "question": "What is the minimum German grade for the Tuebingen machine learning master?",
+    "expected_doc": "tuebingen_ml_requirements_2026",
+    "evidence": "2.0"
+  },
+  {
+    "question": "Tuebingen machine learning application deadline",
+    "expected_doc": "tuebingen_ml_requirements_2026",
+    "evidence": "30 april 2026"
+  },
+  {
+    "question": "How many ECTS must the bachelor have for Tuebingen ML?",
+    "expected_doc": "tuebingen_ml_requirements_2026",
+    "evidence": "180"
+  },
+  {
+    "question": "Which modules are recommended in the first semester of Tuebingen ML?",
+    "expected_doc": "tuebingen_ml_program_page",
+    "evidence": "mathematics for machine learning"
+  },
+  {
+    "question": "How do I convert my Indian CGPA to a German grade?",
+    "expected_doc": "grade_conversion_reference",
+    "evidence": "bavarian"
+  },
+  {
+    "question": "What is the VTU CGPA to percentage formula?",
+    "expected_doc": "grade_conversion_reference",
+    "evidence": "0.75"
+  },
+  {
+    "question": "What is the early deadline at Saarland?",
+    "expected_doc": "saarland_msc_dsai",
+    "evidence": "early deadline"
+  },
+  {
+    "question": "TUM Information Systems winter application period",
+    "expected_doc": "tum_msc_information_systems",
+    "evidence": "31 may"
+  },
+  {
+    "question": "Can I apply to TUM Informatics with a degree outside computer science?",
+    "expected_doc": "tum_msc_informatics",
+    "evidence": "do not qualify"
+  },
+  {
+    "question": "What should the TUM statement of reasons contain?",
+    "expected_doc": "tum_msc_informatics",
+    "evidence": "specific qualification"
+  },
+  {
+    "question": "Does the TUM aptitude test include Java programming?",
+    "expected_doc": "tum_msc_informatics",
+    "evidence": "java"
+  },
+  {
+    "question": "How can I postpone my start at TUM after admission?",
+    "expected_doc": "tum_msc_informatics",
+    "evidence": "postpone"
+  },
+  {
+    "question": "What does RWTH Computer Science expect from applicants?",
+    "expected_doc": "rwth_msc_computer_science",
+    "evidence": "substantial background"
+  },
+  {
+    "question": "Which grade threshold did the older Tuebingen page use?",
+    "expected_doc": "tuebingen_ml_requirements_2025_cached",
+    "evidence": "2.3"
+  }
+]

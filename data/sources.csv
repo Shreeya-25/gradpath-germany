@@ -1,0 +1,12 @@
+doc_id,university,program,doc_type,source_type,status,source_url,scraped_on
+grade_conversion_reference,General,Grade conversion,reference,reference,current,none,2026-10-14
+rwth_msc_computer_science,RWTH Aachen,MSc Computer Science,admission_requirements,daad_mirror,current,https://www.myguide.de/en/international-programmes-master/detail/rwth-aachen-university-software-systems-engineering-3696/?ip-id=3696,2026-10-14
+rwth_msc_media_informatics,RWTH Aachen,MSc Media Informatics,admission_requirements,aggregator,current,https://www.mygermanuniversity.com/master/media-informatics/1031,2026-10-14
+rwth_msc_sse,RWTH Aachen,MSc Software Systems Engineering,admission_requirements,official,current,https://sc.informatik.rwth-aachen.de/studium/master/sse/,2026-10-14
+saarland_msc_dsai,Saarland University,MSc Data Science and Artificial Intelligence,admission_requirements,daad_mirror,current,https://www.myguide.de/en/international-programmes-master/detail/saarland-university-data-science-and-artificial-intelligence-msc-6296/?ip-id=6296,2026-10-14
+tuebingen_ml_program_page,University of Tuebingen,MSc Machine Learning,program_overview,official,current,https://uni-tuebingen.de/en/study/finding-a-course/degree-programs-available/detail/course/machine-learning-master/,2026-10-14
+tuebingen_ml_requirements_2025_cached,University of Tuebingen,MSc Machine Learning,admission_requirements,official,superseded,https://uni-tuebingen.de/en/166353,2026-10-14
+tuebingen_ml_requirements_2026,University of Tuebingen,MSc Machine Learning,admission_requirements,official,current,https://uni-tuebingen.de/it/166353,2026-10-14
+tum_application_note_aggregator,TU Munich,MSc Informatics,application_process,aggregator,current,https://indiascholarships.in/study-abroad/study-in/germany/germany-tum-munich-portal-manual,2026-10-14
+tum_msc_informatics,TU Munich,MSc Informatics,admission_requirements,official,current,https://www.cit.tum.de/en/cit/studies/degree-programs/master-informatics/,2026-10-14
+tum_msc_information_systems,TU Munich,MSc Information Systems,admission_requirements,official,current,https://www.cit.tum.de/en/cit/studies/degree-programs/master-information-systems/,2026-10-14

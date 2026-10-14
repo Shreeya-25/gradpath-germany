@@ -1,0 +1,140 @@
+{
+  "_note": "Structured facts extracted from data/raw documents. Every value has a source doc_id and a confidence. Verify on official pages before applying.",
+  "programs": [
+    {
+      "program_id": "tum_informatics",
+      "university": "TU Munich",
+      "program": "MSc Informatics",
+      "aliases": ["tum informatics", "tu munich informatics", "tum msc informatics", "technical university of munich informatics", "tum computer science", "tum cs", "tum"],
+      "doc_ids": ["tum_msc_informatics", "tum_application_note_aggregator"],
+      "deadlines": {
+        "winter": {"open": "02-01", "close": "05-31", "recommended_close_for_visa": "03-31", "source": "tum_msc_informatics", "confidence": "high"},
+        "summer": {"open": "10-01", "close": "11-30", "recommended_close_for_visa": "10-31", "source": "tum_msc_informatics", "confidence": "high"}
+      },
+      "requirements": {
+        "degree": "Bachelor's in Informatics/Computer Science equivalent to TUM's B.Sc. Informatics; other programs do not qualify",
+        "degree_keywords": ["informatics", "computer science"],
+        "gre_quant_min": 164,
+        "gre_awa_min": 4.0,
+        "gre_or_gate_countries": ["India", "Bangladesh", "China", "Iran", "Pakistan"],
+        "aps_countries": ["India", "China", "Vietnam"],
+        "uni_assist_vpd": true,
+        "english_proof": true,
+        "min_german_grade": null
+      },
+      "required_documents": [
+        "Statement of reasons (max 2 pages)", "CV", "Scientific essay (~1,000 words, one of five topics)",
+        "Analysis of the Curriculum form", "Bachelor's certificate with course list/grades or transcript",
+        "Curriculum with module descriptions of bachelor's degree", "Proof of English proficiency",
+        "GRE (Quant >= 164, AWA >= 4.0) or GATE score (India)", "uni-assist VPD", "APS certificate (India)",
+        "Passport photo", "Passport copy"
+      ]
+    },
+    {
+      "program_id": "tum_information_systems",
+      "university": "TU Munich",
+      "program": "MSc Information Systems",
+      "aliases": ["tum information systems", "tum msc information systems", "tum wirtschaftsinformatik"],
+      "doc_ids": ["tum_msc_information_systems"],
+      "deadlines": {
+        "winter": {"open": "02-01", "close": "05-31", "source": "tum_msc_information_systems", "confidence": "high"},
+        "summer": {"open": "10-01", "close": "11-30", "source": "tum_msc_information_systems", "confidence": "high"}
+      },
+      "requirements": {
+        "degree": "Informatics and mathematics foundations are checked; compare your curriculum with the official page",
+        "degree_keywords": ["informatics", "computer science", "information systems"],
+        "uni_assist_vpd": true,
+        "english_proof": null,
+        "min_german_grade": null
+      },
+      "required_documents": ["Statement of reasons", "Transcripts and curriculum (notarized translations where needed)", "uni-assist VPD"]
+    },
+    {
+      "program_id": "rwth_sse",
+      "university": "RWTH Aachen",
+      "program": "MSc Software Systems Engineering",
+      "aliases": ["rwth sse", "rwth software systems engineering", "software systems engineering"],
+      "doc_ids": ["rwth_msc_sse"],
+      "deadlines": {
+        "winter": {"close": "03-01", "note": "applies to many but not all students", "source": "rwth_msc_sse", "confidence": "high"}
+      },
+      "requirements": {
+        "degree": "Bachelor's in computer science or closely related field from an internationally recognized university",
+        "degree_keywords": ["computer science", "informatics", "software", "artificial intelligence"],
+        "english_proof": true,
+        "min_german_grade": null
+      },
+      "required_documents": ["Bachelor's degree certificate and transcript", "Proof of English proficiency"]
+    },
+    {
+      "program_id": "rwth_cs",
+      "university": "RWTH Aachen",
+      "program": "MSc Computer Science",
+      "aliases": ["rwth computer science", "rwth cs", "rwth msc computer science", "rwth aachen computer science", "rwth"],
+      "doc_ids": ["rwth_msc_computer_science"],
+      "deadlines": {},
+      "requirements": {
+        "degree": "Substantial background in computer science and mathematics",
+        "degree_keywords": ["computer science", "informatics", "artificial intelligence"],
+        "min_german_grade": null
+      },
+      "required_documents": []
+    },
+    {
+      "program_id": "rwth_media_informatics",
+      "university": "RWTH Aachen",
+      "program": "MSc Media Informatics",
+      "aliases": ["rwth media informatics", "media informatics"],
+      "doc_ids": ["rwth_msc_media_informatics"],
+      "deadlines": {
+        "winter": {"close": "03-01", "alt_close": "07-15", "note": "depends on personal deadline; aggregator source", "source": "rwth_msc_media_informatics", "confidence": "low"}
+      },
+      "requirements": {
+        "degree": "Bachelor's in computer science, computer engineering or informatics; 28 CP applied CS, 18 CP computer engineering, 18 CP theoretical CS (aggregator)",
+        "degree_keywords": ["computer science", "informatics", "computer engineering"],
+        "gre_required": true,
+        "english_proof": true,
+        "min_german_grade": null
+      },
+      "required_documents": ["GRE General Test (aggregator says mandatory)", "Proof of English proficiency (B2 placement test accepted)"]
+    },
+    {
+      "program_id": "saarland_dsai",
+      "university": "Saarland University",
+      "program": "MSc Data Science and Artificial Intelligence",
+      "aliases": ["saarland dsai", "saarland data science", "saarland university data science and ai", "saarland", "dsai"],
+      "doc_ids": ["saarland_msc_dsai"],
+      "deadlines": {
+        "winter": {"close": "05-15", "note": "sources disagree (one lists 15 Nov for winter); verify", "source": "saarland_msc_dsai", "confidence": "low"},
+        "summer": {"close": "11-15", "note": "sources disagree; verify", "source": "saarland_msc_dsai", "confidence": "low"}
+      },
+      "requirements": {
+        "degree": "Bachelor's in computer science, informatics or a related field",
+        "degree_keywords": ["computer science", "informatics", "artificial intelligence", "data science"],
+        "uni_assist_vpd": false,
+        "english_proof": null,
+        "min_german_grade": null
+      },
+      "required_documents": ["Bachelor's certificate and transcript", "Proof of English proficiency (check official page)"]
+    },
+    {
+      "program_id": "tuebingen_ml",
+      "university": "University of Tuebingen",
+      "program": "MSc Machine Learning",
+      "aliases": ["tubingen", "tuebingen", "tuebingen machine learning", "tubingen machine learning", "tuebingen ml", "uni tubingen", "university of tubingen"],
+      "doc_ids": ["tuebingen_ml_requirements_2026", "tuebingen_ml_program_page"],
+      "deadlines": {
+        "winter": {"close": "04-30", "note": "2026 cycle date; 2027 date not yet published in captured page", "source": "tuebingen_ml_requirements_2026", "confidence": "medium"}
+      },
+      "requirements": {
+        "degree": "Bachelor's (>= 6 semesters, >= 180 ECTS) in a subject related to machine learning, e.g. computer science",
+        "degree_keywords": ["computer science", "machine learning", "artificial intelligence", "informatics"],
+        "min_ects": 180,
+        "min_german_grade": 2.0,
+        "aps_countries": ["India", "China", "Vietnam"],
+        "english_proof": true
+      },
+      "required_documents": ["Bachelor's degree and transcript (>= 180 ECTS)", "Proof of English proficiency", "APS certificate (India)", "Online application via the university portal"]
+    }
+  ]
+}
